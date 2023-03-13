@@ -1,0 +1,1 @@
+Update ListingRequests SET RequestStatus = 'COMPLETE';
